@@ -1083,20 +1083,6 @@ CREATE POLICY "Parents can view own children"
 5. Reminds parent they're not alone
 
 **Outcome:** Emotional relief, practical coping tools.
-
----
-
-## 🤝 Contributing
-
-We welcome contributions! Please see `CONTRIBUTING.md` (coming soon) for guidelines.
-
-### Areas We Need Help
-- UI/UX improvements
-- Additional AI agent specializations
-- Multi-language support
-- Mobile app (React Native)
-- More research citations
-
 ---
 
 ## ⭐ Star History
