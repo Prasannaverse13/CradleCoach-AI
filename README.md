@@ -4,8 +4,6 @@
 
 CradleCoach is an intelligent parenting companion that helps new parents navigate the challenging early years with confidence. Built on peer-reviewed research and powered by AI, it provides personalized guidance, tracks daily activities, and offers evidence-based insights for your child's development.
 
-![CradleCoach Banner](https://via.placeholder.com/1200x400/4A90E2/FFFFFF?text=CradleCoach+AI+-+Your+Parenting+Co-Pilot)
-
 ---
 
 ## 📑 Table of Contents
@@ -1098,59 +1096,6 @@ We welcome contributions! Please see `CONTRIBUTING.md` (coming soon) for guideli
 - Multi-language support
 - Mobile app (React Native)
 - More research citations
-
----
-
-## 📄 License
-
-MIT License - see `LICENSE` file for details.
-
----
-
-## 🙏 Acknowledgments
-
-**Research Sources:**
-- American Academy of Pediatrics (AAP)
-- World Health Organization (WHO)
-- Journal of Pediatric Psychology
-- Sleep Medicine Reviews
-- Developmental Psychology journals
-
-**Technology:**
-- Supabase for amazing backend infrastructure
-- Google Gemini for powerful AI capabilities
-- React team for excellent framework
-
----
-
-## 📞 Contact & Support
-
-- **Email**: support@cradlecoach.ai (example)
-- **Website**: https://cradlecoach.ai (example)
-- **Documentation**: Coming soon
-- **Discord Community**: Coming soon
-
----
-
-## 🗺️ Roadmap
-
-**Q1 2025**
-- [ ] Multi-child support
-- [ ] Premium tier launch
-- [ ] WhatsApp/Email daily summaries
-- [ ] Export logs to PDF
-
-**Q2 2025**
-- [ ] Mobile app (iOS/Android)
-- [ ] Pediatrician portal (share data with doctor)
-- [ ] Multi-language support (Spanish, Mandarin)
-- [ ] Voice input for logging
-
-**Q3 2025**
-- [ ] Wearable integration (baby monitors)
-- [ ] Community forums
-- [ ] Expert Q&A sessions
-- [ ] Personalized activity calendar
 
 ---
 
